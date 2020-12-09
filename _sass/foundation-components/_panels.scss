@@ -10,9 +10,9 @@
 $include-html-panel-classes: $include-html-classes !default;
 
 // We use these to control the background and border styles
-$panel-bg: scale-color($white, $lightness: -5%) !default;
+$panel-bg: #8B8B8B !default;
 $panel-border-style: solid !default;
-$panel-border-size: 1px !default;
+$panel-border-size: 0px !default;
 
 // We use this % to control how much we darken things on hover
 $panel-function-factor: -11% !default;
@@ -57,10 +57,10 @@ $callout-panel-link-color-hover: scale-color($callout-panel-link-color, $lightne
 
     @if $adjust {
       // We set the font color based on the darkness of the bg.
-      @if $bg-lightness >= 50% { 
+      @if $bg-lightness >= 50% {
         h1,h2,h3,h4,h5,h6,p,li,dl { color: $panel-font-color; }
       }
-      @else { 
+      @else {
         h1,h2,h3,h4,h5,h6,p,li,dl { color: $panel-font-color-alt; }
       }
 

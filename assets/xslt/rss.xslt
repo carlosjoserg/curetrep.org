@@ -1,6 +1,7 @@
 ---
 layout: xml-style
 title: "RSS Feed (Styled)"
+header: no
 sitemap:
   exclude: true
 rootMatcher: '/rss'

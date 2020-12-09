@@ -1,52 +1,36 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
+subheadline: ""
+title: ""
+header: no
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: ""
+  url: 'https://curetrep.org/trepab/'
+  logo: 'trepab/trepab_logo.png'
+  image: 'trepab/trepab_widget.jpg'
+  text: '<p>Repurposing antibacterial drugs for treponematoses therapy</p>'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: ""
+  url: 'https://curetrep.org/yaws/'
+  logo: 'yaws/cure_yaws_logo.png'
+  image: 'yaws/yaws_widget.jpg'
+  text: '<p>Advancing strategies for yaws eradication<br><br></p>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+  title: ""
+  url: 'https://curetrep.org/sarscov2/'
+  logo: 'sarscov2/sarscov2_logo.png'
+  image: 'sarscov2/sarscov2_widget.jpg'
+  text: '<p>Identifying clinical solutions for <nobr>SARS-CoV-2</nobr><br></p>'
+
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Inform me about new updates and features ›
+#  style: alert
 permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
+
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+This site compiles the research on Sexually Transmitted Infections (STI) and Neglected Tropical Diseases of cutaneous manifestation (Skin NTD) of the Unit coordinated by [Dr. Oriol Mitjà]({{ site.url }}/team/oriol/). It is hosted by the Fight Aids and Infectious Diseases Foundation / Germans Trias i Pujol University Hospital (Badalona, Spain).
+
+The Unit’s goal is to identify clinical solutions for treponemal diseases that affect vulnerable populations worldwide and foster their translation into health policies. Since 2020, it also works to contribute to the fight against the <nobr>SARS-CoV-2</nobr> pandemic. This research is financed by the [European Research Council (ERC)](https://erc.europa.eu/) Starting Grant 850450 and by the generous contribution of a wide array of other public and private funders.

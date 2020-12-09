@@ -2,20 +2,31 @@
 layout: default
 format: frontpage
 ---
-<div id="header-home">
+<div id="header-home" style="background: #fdfdfd;">
     <div class="row">
-        <div class="small-12 columns">
+        <div class="small-12 columns t30 b30" style="color: #000;">
+            <p class="subheadline">Fight AIDS and Infectious Diseases Foundation</p>
+            <h1 style="color: #000;">STI and Skin NTD Unit</h1>
         </div><!-- /.medium-4.columns -->
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
 
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
-<div class="row t60">
+<div class="row t30">
 	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
@@ -28,6 +39,8 @@ format: frontpage
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
+
+
 
 
 
@@ -58,7 +71,7 @@ format: frontpage
 {% endcomment %}
 
 {% unless site.posts == empty %}
-    <div class="row t30 b20 homepage">
+    <!-- div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
             {% if post.image.homepage %}
@@ -75,11 +88,11 @@ format: frontpage
             <h2>{{ site.data.language.new_blog_entries }}</h2>
             {% endif %}
             {% endfor %}
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
+        </div --><!-- /.small-12.columns -->
+    <!-- /div --><!-- /.row -->
 
 
-    <div class="row">
+    <!-- div class="row">
         <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
@@ -89,23 +102,12 @@ format: frontpage
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
             </p>
             {% endfor %}
-        </div><!-- /.medium-5.columns -->
+        </div --><!-- /.medium-5.columns -->
 
 
-        <div class="medium-6 columns">
+        <!-- div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
             {% include list-posts entries='3' offset='1' %}
-        </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
+        </div --><!-- /.medium-7.columns -->
+    <!-- /div --><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->

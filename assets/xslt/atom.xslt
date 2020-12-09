@@ -1,6 +1,7 @@
 ---
 layout: xml-style
 title: "Atom Feed (Styled)"
+header: no
 sitemap:
   exclude: true
 rootMatcher: '/atom:feed'

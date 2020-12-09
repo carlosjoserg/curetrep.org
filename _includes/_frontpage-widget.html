@@ -9,6 +9,7 @@
 
 {% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 
+{% capture widget_logo %}{% if include.widget.logo contains 'http' %}{{ include.widget.logo }}{% else %}{{ site.urlimg }}{{ include.widget.logo }}{% endif %}{% endcapture %}
 {% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
 
 
@@ -19,11 +20,19 @@
 		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
 	{% else %}
 		<a href="{{ widget_url }}">
-			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
+			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="widget_image" />{% endif %}
 		</a>
 	{% endif %}
 	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
 
 	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
-	{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
+
+	<div class="medium-6 columns b30">
+		<a href="{{ widget_url }}">
+		{% if widget_logo != empty %}<img src="{{ widget_logo }}" alt="widget_logo" />{% endif %}
+		</a>
+	</div>
+	<div class="medium-6 columns">
+		{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
+	</div>
 </div>
