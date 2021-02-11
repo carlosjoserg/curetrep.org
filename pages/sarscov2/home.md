@@ -44,7 +44,7 @@ In addition to the Test and Treat and the COnV-ert studies, aimed at identifying
 
 ### b. Diagnostics
 
-* Alemany, A., *et al*. **Analytical and Clinical Performance of the Panbio COVID-19 Antigen-Detecting Rapid Diagnostic Test**, submitted ([ePrint]({{ site.urlimg }}/sarscov2/draft_medvrix.pdf)).
+* Alemany, A., *et al* (2021). **Analytical and Clinical Performance of the Panbio COVID-19 Antigen-Detecting Rapid Diagnostic Test**, *Journal of Infection*  in press, ([doi](https://doi.org/10.1016/j.jinf.2020.12.033) /[ePrint](https://www.journalofinfection.com/action/showPdf?pii=S0163-4453%2821%2900004-9)).
 
 
 ### c. Transmission
