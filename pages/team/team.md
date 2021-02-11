@@ -55,12 +55,12 @@ permalink: /team/
 </div>
 
 <div class="row t30">
-		<div class="medium-3 medium-push-2 columns">
+		<div class="medium-3 columns">
 			<a href="{{ site.url }}/team/laia/"><img src="{{ site.urlimg }}/team/9_laia.jpg" alt="laia"></a>
 			<p style="text-align: center;">Laia Bertran</p>
 		</div>
 
-		<div class="medium-3 medium-push-2 columns">
+		<div class="medium-3 columns">
 			<a href="{{ site.url }}/team/sergi/"><img src="{{ site.urlimg }}/team/10_sergi.jpg" alt="sergi"></a>
 			<p style="text-align: center;">Sergi Gavilan</p>
 		</div>
@@ -70,9 +70,8 @@ permalink: /team/
 			<p style="text-align: center;">Clàudia Laporte</p>
 		</div>
 
-		<div class="medium-3 medium-push-2 end columns">
+		<div class="medium-3 columns">
 			<a href="{{ site.url }}/team/miquel/"><img src="{{ site.urlimg }}/team/11_miguel.jpg" alt="miguel"></a>
 			<p style="text-align: center;">Miquel Àngel Rodríguez-Arias</p>
 		</div>
-</div>
 </div>

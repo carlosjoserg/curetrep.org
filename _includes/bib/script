@@ -1,0 +1,1 @@
+bibtex2html -nofooter -noheader -nokeys  -nokeywords -nodoc -dl -s /usr/share/texlive/texmf-dist/bibtex/bst/chicago/chicago.bst  _therapeutics.bib
