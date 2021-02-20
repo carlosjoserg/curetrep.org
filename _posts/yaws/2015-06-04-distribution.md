@@ -1,0 +1,18 @@
+---
+layout: page
+title:  "New Data on the Distribution and Prevalence of Yaws"
+teaser: "A better knowledge of yaws global epidemiology is key to its eradication"
+categories:
+    - yaws
+image:
+    title: news/distribution.png
+    caption: Photo Mitjà O et al, Lancet Global Health, 2015, vol3
+    caption_url: https://www.isglobal.org/en/-/nuevos-datos-sobre-la-distribucion-y-frecuencia-de-la-enfermedad-de-pian
+header: no
+sidebar: right
+---
+
+<div class="content col-xs-12 col-md-11"> <p> A review published in Lancet Global Health and co-signed by doctors Oriol Mitjá, Quique Bassat and Camila González-Beiras from ISGlobal, provides new data on the <a href="http://www.ncbi.nlm.nih.gov/pubmed/26001576">prevalence and geographical distribution of yaws</a>. This information is <strong>a vital first step in achieving WHO's goal of eradicating yaws by 2020.</strong></p> <p> <span style="line-height: 1.4;">Barely a few months ago, it was demonstrated that treating an entire community with single-dose azithromycin is an efficient approach to eliminate the disease, caused by the </span><em style="line-height: 1.4;">Treponema pallidum</em><span style="line-height: 1.4;"> bacterium. However, in order to intervene everywhere the disease occurs, it is necessary to know its geographical distribution and its prevalence, and this information was simply not available. With this in mind, the authors performed a systematic review of all published data from 1990 to 2013 as well as data from official national surveillance programs of the last four years.</span></p> <p> <span style="line-height: 1.4;">The results show that, in 2012, almost 90 million people lived in yaws endemic zones. The researchers identified over 250,000 yaws cases in the last three years in 13 endemic countries, with the great majority of them (84%) concentrated in three countries: Papua New Guinea, Solomon Islands and Ghana. These results confirm that these three countries should be the focus of initial efforts aimed at elimination. Transmission occurred focally in another 8 countries, particularly among vulnerable populations such as pygmies in Central Africa.&nbsp;</span></p> <p> <span style="line-height: 1.4;">Despite the achievements of this study, the authors admit that one limitation is the under-reporting of data, particularly for cases in remote areas where health information systems are weak. Because of this, the authors conclude that eradication efforts must be accompanied by community-based mapping and active surveillance.</span></p> <p> <span style="line-height: 1.4;"><a href="http://www.who.int/yaws/en/">Yaws</a> is a disease that only occurs in humans and is easily diagnosed and treated, which is why experts believe it can be eradicated. As Dr. Mabey points out in an editorial comment on the study, mapping exercises like these are an important first step towards yaws eradication, since otherwise unidentified pockets of infections may persist. In the meantime, he concludes "yaws could be included in ongoing prevalence surveys for trachoma, another tropical neglected disease targeted by WHO for global elimination by 2020." &nbsp;&nbsp;</span></p> <p> <span style="line-height: 16.7999992370605px;">Reference</span></p> <p style="line-height: 16.7999992370605px;"> <span style="font-size: 11px;">&nbsp;Mitjà O, Marks M, Konan DJ, Ayelo G, Gonzalez-Beiras C, Boua B,et al. Global epidemiology of yaws: a systematic review. Lancet Global Health. 2015 3(6):e324-31.</span></p> </div>
+
+---
+Source: [ISGlobal](https://www.isglobal.org/en/-/nuevos-datos-sobre-la-distribucion-y-frecuencia-de-la-enfermedad-de-pian)

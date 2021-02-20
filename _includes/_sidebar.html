@@ -8,18 +8,32 @@
 			{% endfor %}
 		</ul>
 
+
 		<!-- div style="color: #8B8B8B;" align="center">
 			<a class="twitter-timeline" data-tweet-limit="3" data-width="300" data-theme="light" href="https://twitter.com/FLSida?ref_src=twsrc%5Etfw">Tweets by FLSida</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</div -->
 	</div>
 
-	<!-- div class="panel radius">
-		<h3>Other news</h3>
+	<div class="panel radius">
+		<h3 style="color: #8B8B8B;">News by category:</h3>
+		<div class="row medium-6 columns">
+			<div class="medium-4 columns b30">
+				<a style="color: #FFFFFF; text-decoration: none;" href="https://curetrep.org/blog/archive-trepab/">TREPAB</a>
+			</div>
+			<div class="medium-4 columns b30">
+				<a style="color: #FFFFFF; text-decoration: none;" href="https://curetrep.org/blog/archive-yaws/">YAWS</a>
+			</div>
+			<div class="medium-4 medium-pull-1 end columns b30">
+				<a style="color: #FFFFFF; text-decoration: none;" href="https://curetrep.org/blog/archive-sarscov2/">SARSCOV2</a>
+			</div>
+		</div>
+
+		<h3 style="color: #8B8B8B;">Recent news:</h3>
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
-			{% for post in site.posts limit:5 %}
+			{% for post in site.posts limit:3 %}
 			<dd class="accordion-navigation">
-			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+			<a style="color: #8B8B8B;" href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">
 					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
 					<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
@@ -28,5 +42,5 @@
 			{% assign counter=counter | plus:1 %}
 			{% endfor %}
 		</dl>
-	</div -->
+	</div>
 </aside>

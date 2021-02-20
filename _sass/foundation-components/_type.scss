@@ -399,7 +399,7 @@ $align-class-breakpoints:
     blockquote {
       margin: 0 0 $paragraph-margin-bottom;
       padding: $blockquote-padding;
-      border-#{$default-float}: $blockquote-border;
+      // border-#{$default-float}: $blockquote-border;
 
       cite {
         display: block;

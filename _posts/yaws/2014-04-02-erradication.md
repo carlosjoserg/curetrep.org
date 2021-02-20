@@ -1,0 +1,18 @@
+---
+layout: page
+title:  "New Results Confirm That Eradication of Yaws May Be Possible"
+teaser: "Data from pilot studies in four countries on the treatment of yaws with oral azithromycin presented at the World Health Organisation"
+categories:
+    - yaws
+image:
+    title: news/erradication.jpg
+    caption: Source IsGlobal
+    caption_url: https://www.isglobal.org/en/-/nuevos-resultados-confirman-la-posibilidad-de-erradicar-el-pian
+header: no
+sidebar: right
+---
+
+<div class="row"> <p> Eradication of yaws would appear to be by no means an unobtainable goal. According to results presented at an expert consultation organised by the World Health Organisation (WHO) on 24 and 25 March last, this disease closely related to syphilis may be the second infectious disease affecting humans to be entirely eradicated from the planet thanks to a <a href="http://www.isglobal.org/en/web/guest/new/-/asset_publisher/JZ9fGljXnWpI/content/cresib-scientists-make-key-breakthrough-that-could-lead-to-the-eradication-of-yaws" target="_blank">new oral treatment with azithromycin</a>.</p> <p> The experts who attended the meeting in Geneva examined preliminary data from pilot mass treatment campaigns with azithromycin that have been underway for the last two years in four countries (Republic of the Congo, Ghana, Papua, New Guinea and Vanuatu). &nbsp;To date, some 90&nbsp;000 people have been treated in these four countries and over 90% of the population was treated in the areas selected for study. The results show the drug to be safe, easy to use, and highly acceptable to the community, and particularly to children. Only the Papua New Guinea study has reached the stage of follow-up outcome evaluation.</p> <p> Oriol Mitjà, the ISGlobal researcher responsible for that study, is pleased with the results obtained: "Six months after the first treatment, we found that the prevalence of yaws had fallen by more than 90% in our study area. If the other pilot projects produce similar results, there will be little doubt about the feasibility of the new eradication strategy. In my opinion, we will be able to meet the 2020 deadline for the eradication of yaws."</p> <h2> Gaining Momentum, but Facing a Bumpy Road Ahead</h2> <p> The epidemiological situation of yaws worldwide is unclear. Nothing is known about the status of some previously endemic countries, which often share borders with currently endemic regions, and the absence of reported cases in those countries may be due to a lack of surveillance. The WHO's Western Pacific Regional Office found evidence of yaws in the Philippines, a country that has not officially reported any cases since 1960.</p> <p> An even greater threat would be the existence of an animal reservoir from which humans who have been treated and cured could be reinfected. Some studies have reported the presence of a disease similar to yaws in baboons and gorillas in Africa, but it is not known whether these strains are infectious to humans or if cross transmission is possible. These are issues that require further study.</p> <p> Perhaps the most daunting obstacle to eradication is the difficulty of acquiring sufficient funds and of ensuring the necessary commitment of the governments of endemic countries. It was announced at the Geneva meeting that the estimated cost of the eradication campaign should be significantly less than US$1 billion and could even be as low as US$100 million.</p> <p> The campaign is going well and the experts all agreed that the problems and delays are not insurmountable.</p> </div>
+
+---
+Source: [ISGlobal](https://www.isglobal.org/en/-/nuevos-resultados-confirman-la-posibilidad-de-erradicar-el-pian)

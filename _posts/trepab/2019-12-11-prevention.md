@@ -26,5 +26,5 @@ One potential syphilis prevention strategy has been proposed, but its efficacy n
 As rates continue to climb, bringing STD prevention into the 21st century is becoming increasingly urgent. Mounting a defence against this growing threat will require continued effort of the public agencies and intensified health promotion. In addition, new investment in research is welcome and **has the potential to turn the city of Barcelona into a reference in the fight against STDs**, but now will take a long way in curbing the trend in the future.
 
 
-
+---
 Source: [Curar Pian](https://curarpian.com/en/std-prevention-strategies-into-the-21st-century-are-increasingly-urgent/)

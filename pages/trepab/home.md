@@ -45,7 +45,7 @@ Coming soon.
 
 
 <ul>
-    {% for post in site.categories.trepab %}
+    {% for post in site.categories.trepab limit:5 %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

@@ -38,31 +38,31 @@ In addition to the Test and Treat and the COnV-ert studies, aimed at identifying
 
 ### a. Therapeutics
 
-* Mitjà, O., Corbacho-Monné, M., Ubals, M., Alemany, A., Suñer, C., Tebé, C., Tobias, A., Peñafiel, J., Ballana, E., Pérez, C. A., Admella, P., Riera-Martí, N., Laporte, P., Mitjà, J., Clua, M., Bertran, L., Sarquella, M., Gavilán, S., Ara, J., Argimon, J. M., Cuatrecasas, G., Cañadas, P., Elizalde-Torrent, A., Fabregat, R., Farré, M., Forcada, A., Flores-Mateo, G., López, C., Muntada, E., Nadal, N., Narejos, S., Nieto, A., Prat, N., Puig, J., Quiñones, C., Ramírez-Viaplana, F., Reyes-Urueña, J., Riveira-Muñoz, E., Ruiz, L., Sanz, S., Sentís, A., Sierra, A., Velasco, C., Vivanco-Hidalgo, R. M., Zamora, J., Casabona, J., Vall-Mayans, M., González-Beiras, C., Clotet, B. (2021). **A Cluster-Randomized Trial of Hydroxychloroquine as Prevention of Covid-19 Transmission and Disease**, *The New England Journal of Medicine*, 384:417-427, ([doi](https://www.nejm.org/doi/10.1056/NEJMoa2021801) / [ePrint](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2021801?articleTools=true)).
-
-* Mitjà, O., Corbacho-Monné, M., Ubals, M., Tebé, C., Peñafiel, J., Tobias, A., Ballana, E., Alemany, A., Riera-Martí, N., A Pérez, C., Suñer, C., Laporte, P., Admella, P., Mitjà, J., Clua, M., Bertran, L., Sarquella, M., Gavilán, S., Ara, J., Argimon, J. M., Casabona, J., Cuatrecasas, G., Cañadas, P., Elizalde-Torrent, A., Fabregat, R., Farré, M., Forcada, A., Flores-Mateo, G., Muntada, E., Nadal, N., Narejos, S., Nieto, A., Prat, N., Puig, J., Quiñones, C., Reyes-Ureña, J., Ramírez-Viaplana, F., Ruiz, L., Riveira-Muñoz, E., Sierra, A., Velasco, C., Vivanco-Hidalgo, R. M., Sentís, A., G-Beiras, C., Clotet, B., Vall-Mayans, M. (2020). **Hydroxychloroquine for Early Treatment of Adults with Mild Covid-19: A Randomized-Controlled Trial**, *Clinical Infectious Diseases* ciaa1009, 1058-4838, ([doi](https://doi.org/10.1093/cid/ciaa1009) / [ePrint](https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciaa1009/33504392/ciaa1009.pdf)).
-
+{% include _therapeutics.html %}
 
 
 ### b. Diagnostics
 
-* Alemany, A., *et al* (2021). **Analytical and Clinical Performance of the Panbio COVID-19 Antigen-Detecting Rapid Diagnostic Test**, *Journal of Infection*  in press, ([doi](https://doi.org/10.1016/j.jinf.2020.12.033) /[ePrint](https://www.journalofinfection.com/action/showPdf?pii=S0163-4453%2821%2900004-9)).
+{% include _diagnostics.html %}
 
 
 ### c. Transmission
 
-* Marks, M., *et al* (2021). **Transmission of COVID-19 in 282 clusters in Catalonia, Spain: a cohort study**, *The Lancet. Infectious Diseases*, online first, ([doi](https://doi.org/10.1016/S1473-3099(20)30985-3) / [ePrint](https://www.thelancet.com/action/showPdf?pii=S1473-3099%2820%2930985-3)).
+{% include _transmission.html %}
+
 
 ### d. Risk factors
 
-* Suñé, C., *et al*. **Risk factors for mortality of residents in nursing homes with Covid-19: a retrospective cohort study**, submitted ([ePrint]({{ site.urlimg }}/sarscov2/risk_residents.pdf)).
+{% include _factors.html %}
+
+
 
 ## Related news {#news}
 
 
 
 <ul>
-    {% for post in site.categories.sarscov2 %}
+    {% for post in site.categories.sarscov2  limit:5 %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

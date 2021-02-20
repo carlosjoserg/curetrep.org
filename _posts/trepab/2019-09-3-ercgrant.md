@@ -23,5 +23,5 @@ Mitjà already has a solid track in the field of infectious diseases. As a young
 In his new project, Mitjà will tackle a disease caused by a bacterium closely related to that of yaws but whose prevalence is certainly not restricted to remote areas of the planet: syphilis. The last decade has seen an **unprecedented rise in sexually transmitted diseases** (STD), including syphilis, worldwide. In 2017 alone, Barcelona reported over 1000 syphilis cases. Although an effective treatment for the disease exists (injected penicillin), “there is a **need to identify antibiotics that are equally effective but easier to administer**, in order to increase adhesion to treatment and reduce transmission rates,” says Mitjà. “The new treatment would be exportable to any context affected by a rise in the disease, and would therefore have a global impact,” he adds. The five-year project will be carried out at the [University Hospital Germans Trias i Pujol](http://www.hospitalgermanstrias.cat/en).
 
 
-
+---
 Source: [ISGlobal](https://www.isglobal.org/en/-/el-consejo-europeo-de-investigacion-concede-una-subvencion-a-oriol-mitja)
