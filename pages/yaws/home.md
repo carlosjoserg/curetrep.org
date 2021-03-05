@@ -12,7 +12,7 @@ permalink: "/yaws/"
 		<p class="subheadline">Advancing strategies for</p>
 		<h1>Yaws Eradication</h1>
 	</div>
-	<div class="medium-4 columns b30">
+	<div class="medium-3 end columns b30">
 		<img src="{{ site.urlimg }}yaws/cure_yaws_logo.png" alt="logo">
 	</div>
 </div>

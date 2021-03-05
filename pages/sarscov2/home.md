@@ -12,7 +12,7 @@ permalink: "/sarscov2/"
 		<p class="subheadline">Identifying clinical solutions for</p>
 		<h1>SARS-CoV-2</h1>
 	</div>
-	<div class="medium-4 columns b30">
+	<div class="medium-3 end columns b30">
 		<img src="{{ site.urlimg }}sarscov2/sarscov2_logo.png" alt="logo">
 	</div>
 </div>

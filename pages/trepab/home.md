@@ -12,7 +12,7 @@ permalink: "/trepab/"
 		<p class="subheadline">Repurposing clinically approved antibacterial drugs for</p>
 		<h1>Treponematoses Therapy</h1>
 	</div>
-	<div class="medium-4 columns b30">
+	<div class="medium-3 end columns b30">
 		<img src="{{ site.urlimg }}trepab/trepab_logo.png" alt="logo">
 	</div>
 </div>
