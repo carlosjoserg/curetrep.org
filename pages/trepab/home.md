@@ -19,7 +19,7 @@ permalink: "/trepab/"
 
 _Trep-AB_ is a five-year research project funded by a European Research Council (ERC) Starting Grant. Implemented in collaboration with the University of Washington (UW), the project aims at identifying effective, alternative therapeutic options for the two most common human treponematoses: **syphilis** and **yaws**.
 
-The _Trep-AB_ project will achieve this by repurposing (i.e., finding new applications for) approved antibacterial drugs, to provide a smart, affordable, and effective solution to the lack of antibiotics for these conditions. The discovery of new effective antibiotics has the potential to change treatment policies worldwide.
+The _Trep-AB_ project will achieve this by **repurposing** (i.e., finding new applications for) approved antibacterial drugs, to provide a smart, affordable, and effective solution to the lack of antibiotics for these conditions. The discovery of new effective antibiotics has the potential to change treatment policies worldwide.
 
 <div class="row t10">
 	<div class="medium-6 columns b30">
