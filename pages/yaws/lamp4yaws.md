@@ -35,7 +35,7 @@ The LAMP4Yaws is a collaboration between the following partners:
 
 
 
-In this multi-country, groundbreaking program, Dr. Camila G- Beiras, yaws and NTDs researcher from the Skin NTD/STI unit,  coordinates the implementation of this project from the field in Cameroon, Ghana and Ivory Coast, including the implementation of the multi-country case searches and epidemiological analysis, and the deployment of capacity-building activities aimed at strengthening the countries’ capacity for conducting high quality clinical research.
+In this multi-country, groundbreaking program, Dr. Camila G- Beiras, yaws and NTDs researcher from the Skin NTD/STI unit,  coordinates the implementation of this project from the field in **Cameroon, Ghana and Ivory Coast**, including the implementation of the multi-country case searches and epidemiological analysis, and the deployment of capacity-building activities aimed at strengthening the countries’ capacity for conducting high quality clinical research.
 
 
 
