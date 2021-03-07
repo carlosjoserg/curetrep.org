@@ -24,11 +24,11 @@ Traditionally, and due to lack of molecular confirmation tests in rural areas, a
 
 After that discovery, our team has undergone numerous studies to understand more about this pathogen:
 
-1. Our study published in 2018 [Gonzalez-Beiras *et al.*, 2016](http://dx.doi.org/10.3201/eid2201.150425) concluded that **up to 60% of CU clinically diagnosed as yaws are in fact caused by _H. ducreyi_**, and that these ulcers are also affecting mostly children in remote communities of the South Pacific and West Africa.
+1. Our study published in 2018 ([Gonzalez-Beiras *et al.*, 2016](http://dx.doi.org/10.3201/eid2201.150425)) concluded that **up to 60% of CU clinically diagnosed as yaws are in fact caused by _H. ducreyi_**, and that these ulcers are also affecting mostly children in remote communities of the South Pacific and West Africa.
 
-2. Treatment with azithromycin is the cornerstone of the yaws elimination campaign, and so we further provided **definite clinical data on the efficacy of azithromycin to treat _H. ducreyi_ CU** (>95% healed) [Gonzalez-Beiras *et al.*, 2017](http://dx.doi.org/10.1093/cid/cix723).
+2. Treatment with azithromycin is the cornerstone of the yaws elimination campaign, and so we further provided **definite clinical data on the efficacy of azithromycin to treat _H. ducreyi_ CU** (>95% healed) ([Gonzalez-Beiras *et al.*, 2017](http://dx.doi.org/10.1093/cid/cix723)).
 
-3. Regardless of these results, MDA campaigns with azithromycin  do not seem to have a long-term effect on the prevalence of *H. ducreyi* ulcers, and therefore we  performed several studies on *H. ducreyi* dynamic of transmission, the impact of MDA on different strains (3) and its potential environmental reservoir [Houinei *et al.*, 2017](http://dx.doi.org/10.1371/journal.pntd.0004958).
+3. Regardless of these results, MDA campaigns with azithromycin  do not seem to have a long-term effect on the prevalence of *H. ducreyi* ulcers, and therefore we  performed several studies on *H. ducreyi* dynamic of transmission, the impact of MDA on different strains (3) and its potential environmental reservoir ([Houinei *et al.*, 2017](http://dx.doi.org/10.1371/journal.pntd.0004958)).
 
 
 
