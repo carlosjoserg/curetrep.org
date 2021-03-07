@@ -94,7 +94,7 @@ rm sarscov2.bib
 
 # YAWS - SELECTED PUBLICATIONS
 
-bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s chicago.bst -o _yaws ../yaws/yaws.bib
+bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s vancouver.bst -o _yaws ../yaws/yaws.bib
 sed -i '1s/^/<div class="row large-10 columns t10">\n/' _yaws.html
 echo "</div>" >> _yaws.html
 sed -i 's/arXiv/ePrint/g' _yaws.html
