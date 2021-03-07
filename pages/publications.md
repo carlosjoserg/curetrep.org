@@ -7,15 +7,15 @@ header: no
 permalink: "/publications/"
 ---
 
-## List of publications
+# List of publications
 
-### [On antibacterial drugs for treponematoses therapy](https://curetrep.org/trepab/)
+## [On antibacterial drugs for treponematoses therapy](https://curetrep.org/trepab/)
 
 Coming soon.
 
-### [On strategies for Yaws eradication](https://curetrep.org/yaws/)
+## [On strategies for Yaws eradication](https://curetrep.org/yaws/)
 
-#### Selected publications:
+### Selected publications:
 
 {% include _yaws_selected.html %}
 
