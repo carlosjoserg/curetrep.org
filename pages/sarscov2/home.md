@@ -70,7 +70,7 @@ In addition to the Test and Treat and the COnV-ert studies, aimed at identifying
 
 ## Collaborators
 
-<div class="row t10 medium-9 columns" style="background: #fff;">
+<div class="row t10 medium-6 columns" style="background: #fff;">
 	<div class="medium-3 columns b30">
 		<a href="https://www.grifols.com/" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/grifols.png" alt="Grifols"></a>
 	</div>
@@ -89,7 +89,7 @@ In addition to the Test and Treat and the COnV-ert studies, aimed at identifying
 
 </div>
 
-<div class="row medium-9 columns" style="background: #fff;">
+<div class="row medium-6 columns" style="background: #fff;">
 
 	<div class="medium-3 columns b30">
 		<a href="https://www.yomecorono.com/" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/ymc.png" alt="YoMeCorono"></a>
