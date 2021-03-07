@@ -15,7 +15,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Martí Vall-Mayans</h3>
-		<p><b>HUGTP / FLSida</b></p>
+		<p><b>Researcher</b></p>
 		<p>
 		Martí Vall-Mayans is Faculty Specialist and Senior Researcher at the STI and Skin NTD Unit of the Fight AIDS and Infectious Diseases Foundation/ Germans Trias i Pujol University Hospital. Former WHO Consultant, he is member of the editorial board of the IUSTI-Europe guidelines and Scientific Chair of the 2020 European IUSTI congress.
 		<br><br>

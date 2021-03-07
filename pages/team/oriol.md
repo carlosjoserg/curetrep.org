@@ -15,7 +15,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Oriol Mitjà</h3>
-		<p><b>HUGTP / FLSida</b></p>
+		<p><b>Coordinator / Principal Investigator</b></p>
 		<p>
 		Dr. Oriol Mitjà is an Associate Professor at Germans Trias Research Institute, and head of the STI and Skin NTD Unit of the Germans Trias i Pujol University Hospital. Oriol conducted his postdoctoral research at the Lihir Medical Centre (Papua New Guinea) in the areas of endemic treponematoses and cutaneous chancroid and has focused his clinical research program on the development of diagnostic and therapeutic tools for the management of STIs and skin NTDs. He has authored numerous research articles that have earned international recognition and have informed new attempts to eradication of yaws worldwide.
 		<br><br>

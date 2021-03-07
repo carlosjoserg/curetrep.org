@@ -15,7 +15,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Camila González-Beiras</h3>
-		<p><b>HUGTP / FLSida</b></p>
+		<p><b>Researcher</b></p>
 		<p>
 		Camila Beiras is a post-doctoral research scientist of the STI and Skin NTD Unit of the Fight AIDS and Infectious Diseases Foundation/ Germans Trias i Pujol University Hospital. Having a clinical-epidemiological background, she currently leads the fieldwork implementation of the Yaws3 program in Lihir Island, Papua New Guinea and of the LAMP4Yaws program in  West Africa.
 		<br><br>

@@ -15,7 +15,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Lauren Tantalo</h3>
-		<p><b>UW</b></p>
+		<p><b>Researcher</b></p>
 		<p>
 		Lauren Tantalo is a member of the Giacani laboratory at the University of Washington. Native of Seattle, after earning a Bachelor's in Science degree in Biology from Western Washington University in 1999, she began to work on the study of insect hybrids.
 		<br><br>

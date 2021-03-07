@@ -15,7 +15,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Lorenzo Giacani</h3>
-		<p><b>UW</b></p>
+		<p><b>Coordinator</b></p>
 		<p>
 		Dr. Lorenzo Giacani is currently an Associate Professor in the Department of Medicine, Division of Allergy and Infectious Diseases, and in the Department of Global Health of the University of Washington. He studies syphilis pathogenesis and evaluates vaccine candidates for syphilis, in addition to in vitro and in vivo testing of antibiotics for syphilis. His interest in STIs and syphilis began after being drafted into the Italian Army, where he was tasked with drawing blood from soldiers for syphilis testing.
 		<br><br>

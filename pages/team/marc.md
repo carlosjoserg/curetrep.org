@@ -15,7 +15,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Marc Corbacho</h3>
-		<p><b>HUGTP / FLSida</b></p>
+		<p><b>Researcher</b></p>
 		<p>
 		Marc Corbacho is a PhD candidate at the Fight AIDS and Infectious Diseases Foundation/ Germans Trias i Pujol University Hospital, and a staff dermatologist at Hospital Universitari Parc Taulí in Sabadell. During his formation he got involved in a cooperation project in a rural area of Malawi, which triggered his interest in global health. In 2019 he participated in community-based clinical trials for Yaws in Papua New Guinea (Lihir Medical Centre). At present, he coordinates the COnV-ert Study together with Andrea Alemany.
 		<br><br>

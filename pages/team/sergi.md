@@ -15,7 +15,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Sergi Gavilan</h3>
-		<p><b>HUGTP / FLSida</b></p>
+		<p><b>Senior Administrative Officer</b></p>
 		<p>
 		Sergi is a senior administrative officer at the STI and Skin NTD Unit of the Fight AIDS and Infectious Diseases Foundation/ Germans Trias i Pujol University Hospital. At present, he works as a personal assistant for the Trep-AB and Yaws 3 projects.
 		<br><br>
@@ -24,7 +24,7 @@ homepage: true
 	</div>
 
 	<div class="medium-5 columns t90 b30">
-		<a href="{{ site.url }}/team/sergi/"><img src="{{ site.urlimg }}/team/10_sergi.jpg" alt="sergi"></a>
+		<a href="{{ site.url }}/team/sergi/"><img src="{{ site.urlimg }}/team/12_sergi.jpg" alt="sergi"></a>
 	</div>
 
 </div>

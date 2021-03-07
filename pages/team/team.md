@@ -55,23 +55,58 @@ permalink: /team/
 </div>
 
 <div class="row t30">
-		<div class="medium-3 columns">
-			<a href="{{ site.url }}/team/laia/"><img src="{{ site.urlimg }}/team/9_laia.jpg" alt="laia"></a>
-			<p style="text-align: center;">Laia Bertran</p>
-		</div>
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/barbara/"><img src="{{ site.urlimg }}/team/9_barbara.jpg" alt="barbara"></a>
+		<p style="text-align: center;">Bàrbara Baró</p>
+	</div>
 
-		<div class="medium-3 columns">
-			<a href="{{ site.url }}/team/sergi/"><img src="{{ site.urlimg }}/team/10_sergi.jpg" alt="sergi"></a>
-			<p style="text-align: center;">Sergi Gavilan</p>
-		</div>
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/pere/"><img src="{{ site.urlimg }}/team/10_pere.jpg" alt="pere"></a>
+		<p style="text-align: center;">Pere Millat-Martínez</p>
+	</div>
 
-		<div class="medium-3 columns">
-			<a href="{{ site.url }}/team/claudia/"><img src="{{ site.urlimg }}/team/6_lauren.jpg" alt="claudia"></a>
-			<p style="text-align: center;">Clàudia Laporte</p>
-		</div>
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/laia/"><img src="{{ site.urlimg }}/team/11_laia.jpg" alt="laia"></a>
+		<p style="text-align: center;">Laia Bertran</p>
+	</div>
 
-		<div class="medium-3 columns">
-			<a href="{{ site.url }}/team/miquel/"><img src="{{ site.urlimg }}/team/11_miguel.jpg" alt="miguel"></a>
-			<p style="text-align: center;">Miquel Àngel Rodríguez-Arias</p>
-		</div>
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/sergi/"><img src="{{ site.urlimg }}/team/12_sergi.jpg" alt="sergi"></a>
+		<p style="text-align: center;">Sergi Gavilan</p>
+	</div>
+</div>
+
+<div class="row t30">
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/claudia/"><img src="{{ site.urlimg }}/team/13_claudia.jpg" alt="claudia"></a>
+		<p style="text-align: center;">Clàudia Laporte</p>
+	</div>
+
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/miquel/"><img src="{{ site.urlimg }}/team/14_miguel.jpg" alt="miguel"></a>
+		<p style="text-align: center;">Miquel Àngel Rodríguez-Arias</p>
+	</div>
+
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/dan/"><img src="{{ site.urlimg }}/team/15_dan.jpg" alt="dan"></a>
+		<p style="text-align: center;">Dan Ouchi</p>
+	</div>
+
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/gerard/"><img src="{{ site.urlimg }}/team/16_gerard.jpg" alt="gerard"></a>
+		<p style="text-align: center;">Gerard Carot-Sans</p>
+	</div>
+</div>
+
+<div class="row t30">
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/mireia/"><img src="{{ site.urlimg }}/team/17_mireia.jpg" alt="mireia"></a>
+		<p style="text-align: center;">Mireia Clua</p>
+	</div>
+
+	<div class="medium-3 columns">
+		<a href="{{ site.url }}/team/jordi/"><img src="{{ site.urlimg }}/team/18_jordi.jpg" alt="jordi"></a>
+		<p style="text-align: center;">Jordi Mitjà</p>
+	</div>
+
 </div>

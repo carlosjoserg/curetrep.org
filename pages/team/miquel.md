@@ -14,7 +14,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Miquel Àngel Rodríguez-Arias</h3>
-		<p><b>HUGTP / FLSida</b></p>
+		<p><b>Project Manager</b></p>
 		<p>
 		Miquel Àngel works as the project manager for the STI and Skin NTD Unit of the Fight AIDS and Infectious Diseases Foundation/ Germans Trias i Pujol University Hospital. He formerly held a similar position at the Citizen Science Research group EMBIMOS of the Department of Physical and Technological Oceanography of the Institute of Marine Sciences of CSIC.
 		<br><br>
@@ -23,7 +23,7 @@ homepage: true
 	</div>
 
 	<div class="medium-5 columns t90 b30">
-		<a href="{{ site.url }}/team/miguel/"><img src="{{ site.urlimg }}/team/11_miguel.jpg" alt="miguel"></a>
+		<a href="{{ site.url }}/team/miguel/"><img src="{{ site.urlimg }}/team/14_miguel.jpg" alt="miguel"></a>
 	</div>
 
 </div>
