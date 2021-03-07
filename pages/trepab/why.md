@@ -21,9 +21,10 @@ homepage: true
 	</div>
 </div>
 
-Syphilis and yaws are the two most common human treponematoses.
+**Syphilis and yaws are the two most common human treponematoses.**
 
-<div class="row t10">
+
+<div class="row t30 b30">
 	<div class="medium-6 columns b10">
 		<p>Syphilis is a sexually transmitted disease caused by <em>Treponema pallidum (T.p.)</em> subsp. pallidum. Its global prevalence has crept upward since 2000, to circa <b>36 million cases at present</b>, and over <b>11 million new infections annually</b>. Over 90% of new syphilis cases occur in developing countries, but it is also a health concern in developed nations.  The higher risk population are young people, men who have sex with men, and sex workers.
 		<br><br>
@@ -41,6 +42,10 @@ Syphilis and yaws are the two most common human treponematoses.
 	</div>
 </div>
 
+
+
 **If successful, our project will determine the efficacy of additional antibacterial drugs with good CNS penetration for the treatment of syphilis. Furthermore, new antibiotic regimens could be used in combination with penicillin as a resistance management strategy. This is particularly important in the case of yaws.**
+
+
 
 <a class="button left r15 tiny radius" href="{{ site.url }}/trepab">Menu</a> <a class="button left r15 tiny radius" href="{{ site.url }}/trepab/methodology/">Next >> </a>
