@@ -13,12 +13,12 @@ permalink: "/publications/"
 
 Coming soon.
 
-## [On clinical solutions for SARS-CoV-2](https://curetrep.org/sarscov2/)
-
-{% include _sarscov2.html %}
-
 ## [On strategies for Yaws eradication](https://curetrep.org/yaws/)
 
 ### Selected publications:
 
 {% include _yaws_selected.html %}
+
+## [On clinical solutions for SARS-CoV-2](https://curetrep.org/sarscov2/)
+
+{% include _sarscov2.html %}
