@@ -108,5 +108,4 @@ permalink: /team/
 		<a href="{{ site.url }}/team/jordi/"><img src="{{ site.urlimg }}/team/18_jordi.jpg" alt="jordi"></a>
 		<p style="text-align: center;">Jordi Mitjà</p>
 	</div>
-
 </div>
