@@ -28,7 +28,7 @@ homepage: true
 	</div>
 
 	<div class="medium-5 columns t90 b30">
-		<a href="{{ site.url }}/team/oriol/"><img src="{{ site.urlimg }}/team/1_oriol.jpg" alt="oriol"></a>
+		<a href="{{ site.url }}/team/oriol/"><img src="{{ site.urlimg }}/team/oriol_full.jpg" alt="oriol"></a>
 	</div>
 </div>
 

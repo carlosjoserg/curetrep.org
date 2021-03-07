@@ -26,7 +26,7 @@ homepage: true
 	</div>
 
 	<div class="medium-5 columns t90 b30">
-		<a href="{{ site.url }}/team/pere/"><img src="{{ site.urlimg }}/team/10_pere.jpg" alt="pere"></a>
+		<a href="{{ site.url }}/team/pere/"><img src="{{ site.urlimg }}/team/pere_full.jpg" alt="pere"></a>
 	</div>
 
 </div>
