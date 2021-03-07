@@ -4,8 +4,6 @@ title: ""
 header:
     title: ""
     image_fullwidth: yaws/diseases_header.jpg
-    caption: List of neglected tropical diseases by the WHO
-    caption_url: https://www.who.int/data/gho/data/themes/neglected-tropical-diseases
 permalink: "/yaws/diseases/"
 ---
 
