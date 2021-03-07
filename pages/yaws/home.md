@@ -44,6 +44,20 @@ Our work in Papua New Guinea has led to the identification of an affordable trea
 	</div>
 </div>
 
+<div class="row t10">
+	<div class="medium-6 columns b30">
+		<a href="{{ site.url }}/yaws/lamp4yaws/"><img src="{{ site.urlimg }}/yaws/lamp4yaws_thumb.jpg" alt="lamp4yaws">
+		<div style="position: absolute; top: 40%; left: 10%;
+		text-shadow: 0 2px 3px rgba(0,0,0,0.4); color: #fff; font-size: 1.563em"><br><br>LAMP4Yaws</div></a>
+	</div>
+
+	<div class="medium-6 columns b30">
+		<a href="{{ site.url }}/yaws/ulcers/"><img src="{{ site.urlimg }}/yaws/ulcers_thumb.jpg" alt="Documentary">
+		<div style="position: absolute; top: 40%; left: 10%;
+		text-shadow: 0 2px 3px rgba(0,0,0,0.4); color: #fff; font-size: 1.563em">RESEARCH ON<br>TROPICAL CUTANEOUS<br>ULCERS AND H. DUCREYI</div></a>
+	</div>
+</div>
+
 ## Selected Publications {#publications}
 
 {% include _yaws.html %}
