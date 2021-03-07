@@ -99,12 +99,12 @@ permalink: /team/
 </div>
 
 <div class="row t30">
-	<div class="medium-3 columns">
+	<div class="medium-3 medium-pull-3 columns">
 		<a href="{{ site.url }}/team/mireia/"><img src="{{ site.urlimg }}/team/17_mireia.jpg" alt="mireia"></a>
 		<p style="text-align: center;">Mireia Clua</p>
 	</div>
 
-	<div class="medium-3 columns">
+	<div class="medium-3 end columns">
 		<a href="{{ site.url }}/team/jordi/"><img src="{{ site.urlimg }}/team/18_jordi.jpg" alt="jordi"></a>
 		<p style="text-align: center;">Jordi Mitjà</p>
 	</div>
