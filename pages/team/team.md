@@ -104,7 +104,7 @@ permalink: /team/
 		<p style="text-align: center;">Mireia Clua</p>
 	</div>
 
-	<div class="medium-3 end columns">
+	<div class="medium-3 medium-pull-3 columns">
 		<a href="{{ site.url }}/team/jordi/"><img src="{{ site.urlimg }}/team/18_jordi.jpg" alt="jordi"></a>
 		<p style="text-align: center;">Jordi Mitjà</p>
 	</div>
