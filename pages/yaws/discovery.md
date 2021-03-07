@@ -13,7 +13,7 @@ permalink: "/yaws/discovery/"
 		<h1>Our discovery</h1>
 		<h3>A game-changer to defeat Yaws</h3>
 	</div>
-	<div class="medium-4 columns b30">
+	<div class="medium-3 columns b30">
 		<img src="{{ site.urlimg }}/yaws/cure_yaws_logo.png" alt="logo">
 	</div>
 </div>

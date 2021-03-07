@@ -13,7 +13,7 @@ permalink: "/yaws/documentary/"
 	<div class="medium-8 columns b30">
 		<h1>Where the Roads End</h1>
 	</div>
-	<div class="medium-4 columns b30">
+	<div class="medium-3 columns b30">
 		<img src="{{ site.urlimg }}/yaws/cure_yaws_logo.png" alt="logo">
 	</div>
 </div>
