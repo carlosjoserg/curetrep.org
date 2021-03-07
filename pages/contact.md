@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 subheadline: ""
 title: ""
 header: no
 permalink: "/contact/"
-sidebar: right
+# sidebar: right
 ---
 
 **Laia Bertran**
