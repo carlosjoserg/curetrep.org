@@ -36,7 +36,9 @@ homepage: true
 	<div class="medium-6 columns b10">
 		<p>Yaws is a poverty-related infectious disease caused by <em>Treponema pallidum (T.p.)</em> subsp. pertenue. It affects the skin and bones of children 1-15 years of age that can cause irreversible malformations resulting in a major physical and psychological burden. There are <b>100,000 new infections reported annually</b> and more than 89 million people living at risk, in endemic regions of 15 countries in Africa and Asia-Pacific.
 		<br><br>
-		The WHO has already begun implementing a programme designed to eradicate the disease worldwide based on azithromycin*, a safe, affordable, and easy-to-administer treatment. However, this eradication program is based on the Mass Drug Administration (MDA) of the drug, hence it is threatened by the risk of azithromycin resistance. <b>Our work to find new antibiotic combinations is timely to address this matter before it becomes an insurmountable obstacle.</b>
+		The WHO has already begun implementing a programme designed to eradicate the disease worldwide based on azithromycin*, a safe, affordable, and easy-to-administer treatment. However, this eradication program is based on the Mass Drug Administration (MDA) of the drug, hence it is threatened by the risk of azithromycin resistance.
+		<br><br>
+		<b>Our work to find new antibiotic combinations is timely to address this matter before it becomes an insurmountable obstacle.</b>
 		<br>
 	</p>
 	</div>
