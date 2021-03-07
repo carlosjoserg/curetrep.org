@@ -2,7 +2,7 @@
 
 ## THERAPEUTICS
 
-bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s chicago.bst -o _therapeutics ../sarscov2/therapeutics.bib
+bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s vancouver.bst -o _therapeutics ../sarscov2/therapeutics.bib
 sed -i '1s/^/<div class="row large-10 columns t10">\n/' _therapeutics.html
 echo "</div>" >> _therapeutics.html
 sed -i 's/arXiv/ePrint/g' _therapeutics.html
@@ -20,7 +20,7 @@ mv _therapeutics.html ../../_includes/
 
 ## DIAGNOSITCS
 
-bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s chicago.bst -o _diagnostics ../sarscov2/diagnostics.bib
+bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s vancouver.bst -o _diagnostics ../sarscov2/diagnostics.bib
 sed -i '1s/^/<div class="row large-10 columns t10">\n/' _diagnostics.html
 echo "</div>" >> _diagnostics.html
 sed -i 's/arXiv/ePrint/g' _diagnostics.html
@@ -38,7 +38,7 @@ mv _diagnostics.html ../../_includes/
 
 ## DIAGNOSITCS
 
-bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s chicago.bst -o _transmission ../sarscov2/transmission.bib
+bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s vancouver.bst -o _transmission ../sarscov2/transmission.bib
 sed -i '1s/^/<div class="row large-10 columns t10">\n/' _transmission.html
 echo "</div>" >> _transmission.html
 sed -i 's/arXiv/ePrint/g' _transmission.html
@@ -56,7 +56,7 @@ mv _transmission.html ../../_includes/
 
 ## FACTORS
 
-bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s chicago.bst -o _factors ../sarscov2/factors.bib
+bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s vancouver.bst -o _factors ../sarscov2/factors.bib
 sed -i '1s/^/<div class="row large-10 columns t10">\n/' _factors.html
 echo "</div>" >> _factors.html
 sed -i 's/arXiv/ePrint/g' _factors.html
