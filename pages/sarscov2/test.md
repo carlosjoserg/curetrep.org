@@ -24,7 +24,7 @@ The trial took place during the first wave of the COVID-19 pandemic. It was a ra
 
 ## Results
 
-Treatment with HCQ did not have beneficial effects in the prevention of symptomatic COVID-19 or in the prevention of SARS-CoV-2 infection in healthy contacts exposed to a positive PCR case. These results were of great help to reorientate the many studies based on HCQ that were underway around the world and can now focus on more effective therapies or drug combinations with greater antiviral [potency]({{ site.url }}/sarscov2/#articles).
+Treatment with HCQ did not have beneficial effects in the prevention of symptomatic COVID-19 or in the prevention of SARS-CoV-2 infection in healthy contacts exposed to a positive PCR case. These results were of great help to reorientate the many studies based on HCQ that were underway around the world and can now focus on more effective therapies or drug combinations with greater antiviral potency.
 
 <div class="row b30">
 	<br>
