@@ -9,7 +9,7 @@ permalink: "/yaws/ulcers/"
 
 <div class="row t10">
 	<div class="medium-8 columns b30">
-		<h1>Research on tropical Cutaneous Ulcers and H. ducreyi</h1>
+		<h1>Research on tropical cutaneous ulcers and H. ducreyi</h1>
 	</div>
 	<div class="medium-3 columns b30">
 		<img src="{{ site.urlimg }}/yaws/cure_yaws_logo.png" alt="logo">
