@@ -5,8 +5,6 @@ teaser: ""
 header:
     title: ""
     image_fullwidth: yaws/yaws_header.jpg
-    caption: Treatment of yaws in children in Papua New Guinea
-    caption_url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)61624-3/fulltext
 permalink: "/yaws/discovery/"
 ---
 
@@ -22,7 +20,7 @@ permalink: "/yaws/discovery/"
 
 Until recently, the only treatment for yaws was injected penicillin. It requires several components (syringes, needles, plastic gloves, water…) that makes the administration very challenging in remote areas. In addition, only qualified personnel, who do not abound in yaws endemic areas, can administer the injections. Also, it is a painful treatment, which makes it difficult to apply to children.
 
-**In 2012, [Dr. Oriol Mitjà]({{ site.url }}/team/oriol/) discovered that a single dose of azithromycin eliminates the disease in a quick, painless, and affordable manner**. Azithromycin is an antibiotic used for infections of the respiratory tract, very common in our pharmacies.  The cost of this new treatment is one euro per person, which includes the purchase of the antibiotic and its distribution.
+**In 2012, [Dr. Oriol Mitjà]({{ site.url }}/team/oriol/) [discovered that a single dose of azithromycin](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)61624-3/fulltext) eliminates the disease in a quick, painless, and affordable manner**. Azithromycin is an antibiotic used for infections of the respiratory tract, very common in our pharmacies.  The cost of this new treatment is one euro per person, which includes the purchase of the antibiotic and its distribution.
 
 In parallel, Oriol Mitjà established a diagnostic method that allows to easily and quickly identify the presence of the bacteria that causes the disease.
 

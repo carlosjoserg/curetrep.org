@@ -6,8 +6,6 @@ teaser: ""
 header:
     title: ""
     image_fullwidth: yaws/documentary_header.jpg
-    caption: Watch the full documentary at TV3 website
-    caption_url: https://www.ccma.cat/tv3/alacarta/sense-ficcio/on-acaben-els-camins/video/5604901/
 permalink: "/yaws/documentary/"
 ---
 
