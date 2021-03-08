@@ -70,47 +70,47 @@ In addition to the Test and Treat and the COnV-ert studies, aimed at identifying
 
 ## Collaborators
 
-<div class="row t10 medium-6 columns" style="background: #fff; text-align: center;">
-	<div class="medium-2 columns b30">
+<div class="row t10 medium-6 columns" style="background: #fff;">
+	<div class="medium-2 medium-push-1 columns b30">
 		<a href="https://www.grifols.com/" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/grifols.png" alt="Grifols"></a>
 	</div>
 
-	<div class="medium-2 columns b30">
+	<div class="medium-2 medium-push-1 columns b30">
 		<a href="https://www.irsicaixa.es/en" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/irsi.jpg" alt="Caixa"></a>
 	</div>
 
-	<div class="medium-2 columns b30">
+	<div class="medium-2 medium-push-1 columns b30">
 		<a href="https://www.bancsang.net/en_index/" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/bst.gif" alt="Teixits"></a>
 	</div>
 
-	<div class="medium-2 end columns b30">
+	<div class="medium-2 medium-push-1 end columns b30">
 		<a href="https://www.isglobal.org/en/home" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/isglobal-en.png" alt="Isglobal"></a>
 	</div>
 
 </div>
 
-<div class="row medium-6 columns" style="background: #fff; text-align: center;">
+<div class="row medium-6 columns" style="background: #fff;">
 
-	<div class="medium-2 columns b30">
+	<div class="medium-2 medium-push-1 columns b30">
 		<a href="https://www.yomecorono.com/" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/ymc.png" alt="YoMeCorono"></a>
 	</div>
 
-	<div class="medium-2 columns b30">
+	<div class="medium-2 medium-push-1 columns b30">
 		<a href="https://www.bsc.es/" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/biysc.jpg" alt="BSC"></a>
 	</div>
 
-	<div class="medium-2 columns b30">
+	<div class="medium-2 medium-push-1 columns b30">
 		<a href="http://primaria.icsmetropolitananord.cat/" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/isapmn.jpg" alt="Institut"></a>
 	</div>
 
-	<div class="medium-2 columns end b30">
+	<div class="medium-2 medium-push-1 columns end b30">
 		<a href="http://www.cresa.cat/cresa3/default.asp?mod=strmenu01&idioma=en" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/cresa2.jpg" alt="Cresa"></a>
 	</div>
 
 </div>
 
-<div class="row" style="background: #fff; text-align: center;">
-	<div class="medium-2 medium-centered columns b30">
+<div class="row" style="background: #fff;">
+	<div class="medium-2 medium-push-1 medium-centered columns b30">
 		<a href="http://www.hospitalgermanstrias.cat/en" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/gtp-new.jpg" alt="Hostpital"></a>
 	</div>
 </div>
