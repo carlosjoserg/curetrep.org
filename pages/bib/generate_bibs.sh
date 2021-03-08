@@ -9,12 +9,12 @@ sed -i 's/arXiv/ePrint/g' _therapeutics.html
 sed -i 's|http://arxiv.org/abs/||g' _therapeutics.html
 sed -i 's|<a href|<a target="_blank" href|g' _therapeutics.html
 sed -i 's|<p>||g' _therapeutics.html
-sed -i 's|<dd>|<li><font size="-2"><p>|g' _therapeutics.html
+sed -i 's|<dd>|<li><p>|g' _therapeutics.html
 sed -i 's|</dd>|</p></li>|g' _therapeutics.html
 sed -i 's|<dl>|<ul>|g' _therapeutics.html
 sed -i 's|</dl>|</ul>|g' _therapeutics.html
 sed -i -e '/<dt>/,+2d' _therapeutics.html
-sed -i 's|<font size="-1">|<font size="-3"><p>|g' _therapeutics.html
+sed -i 's|<font size="-1">|<font size="-1"><p>|g' _therapeutics.html
 sed -i 's|</font>|</p></font>|g' _therapeutics.html
 mv _therapeutics.html ../../_includes/
 
