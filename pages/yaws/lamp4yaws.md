@@ -46,4 +46,4 @@ We hope that the LAMP4Yaws study will ultimately result in WHO’s implementatio
 [For further information, visit the project’s website.](https://www.lshtm.ac.uk/research/centres-projects-groups/lamp4yaws)
 
 
-<a class="button left r15 tiny radius" href="{{ site.url }}/yaws/documentary/"> << Back</a> <a class="button left r15 tiny radius" href="{{ site.url }}/yaws">Menu</a><a class="button left r15 tiny radius" href="{{ site.url }}/yaws/ulcers/">Next >> </a>
+<a class="button left r15 tiny radius" href="{{ site.url }}/yaws/ulcers/"> << Back</a> <a class="button left r15 tiny radius" href="{{ site.url }}/yaws">Menu</a><a class="button left r15 tiny radius" href="{{ site.url }}/yaws/documentary/">Next >> </a>
