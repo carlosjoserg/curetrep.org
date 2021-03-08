@@ -38,9 +38,9 @@ Our work in Papua New Guinea has led to the identification of an affordable trea
 	</div>
 
 	<div class="medium-6 columns b30">
-		<a href="{{ site.url }}/yaws/documentary/"><img src="{{ site.urlimg }}/yaws/documentary_thumb.jpg" alt="Documentary">
+		<a href="{{ site.url }}/yaws/ulcers/"><img src="{{ site.urlimg }}/yaws/ulcers_thumb.jpg" alt="ulcers">
 		<div style="position: absolute; top: 40%; left: 10%;
-		text-shadow: 0 2px 3px rgba(0,0,0,0.4); color: #fff; font-size: 1.563em"><br><br>DOCUMENTARY</div></a>
+		text-shadow: 0 2px 3px rgba(0,0,0,0.4); color: #fff; font-size: 1.563em">RESEARCH ON<br>TROPICAL CUTANEOUS<br>ULCERS AND H. DUCREYI</div></a>
 	</div>
 </div>
 
@@ -52,9 +52,9 @@ Our work in Papua New Guinea has led to the identification of an affordable trea
 	</div>
 
 	<div class="medium-6 columns b30">
-		<a href="{{ site.url }}/yaws/ulcers/"><img src="{{ site.urlimg }}/yaws/ulcers_thumb.jpg" alt="ulcers">
+		<a href="{{ site.url }}/yaws/documentary/"><img src="{{ site.urlimg }}/yaws/documentary_thumb.jpg" alt="Documentary">
 		<div style="position: absolute; top: 40%; left: 10%;
-		text-shadow: 0 2px 3px rgba(0,0,0,0.4); color: #fff; font-size: 1.563em">RESEARCH ON<br>TROPICAL CUTANEOUS<br>ULCERS AND H. DUCREYI</div></a>
+		text-shadow: 0 2px 3px rgba(0,0,0,0.4); color: #fff; font-size: 1.563em"><br><br>DOCUMENTARY</div></a>
 	</div>
 </div>
 

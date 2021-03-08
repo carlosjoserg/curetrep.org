@@ -28,7 +28,7 @@ permalink: "/yaws/documentary/"
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/SZFMOSsi9KQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<a class="button left r15 tiny radius" href="{{ site.url }}/yaws/discovery/"> << Back</a> <a class="button left r15 tiny radius" href="{{ site.url }}/yaws">Menu</a> <a class="button left r15 tiny radius" href="{{ site.url }}/yaws/lamp4yaws/">Next >> </a>
 
+<a class="button left r15 tiny radius" href="{{ site.url }}/yaws/lamp4yaws/"> << Back</a> <a class="button left r15 tiny radius" href="{{ site.url }}/yaws">Menu</a>
 
 [1]: https://www.ccma.cat/tv3/alacarta/sense-ficcio/on-acaben-els-camins/video/5604901/

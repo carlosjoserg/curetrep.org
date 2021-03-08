@@ -35,4 +35,4 @@ After that discovery, our team has undergone numerous studies to understand more
 New strategies to control *H. ducreyi* along with yaws need to be explored. Syndromic care for ulcers using azithromycin and multiple rounds of MDA could be included in future interventions of the Morges Strategy for yaws eradication. Mathematical modelling has shown the value of multiple rounds of MDA to reduce *T. p. pertenue* infection, and this could, in parallel, reduce *H. ducreyi* infection and potentially skin carriage.
 
 
-<a class="button left r15 tiny radius" href="{{ site.url }}/yaws/lamp4yaws/"> << Back</a> <a class="button left r15 tiny radius" href="{{ site.url }}/yaws">Menu</a>
+<a class="button left r15 tiny radius" href="{{ site.url }}/yaws/discovery/"> << Back</a> <a class="button left r15 tiny radius" href="{{ site.url }}/yaws">Menu</a> <a class="button left r15 tiny radius" href="{{ site.url }}/yaws/lamp4yaws/">Next >> </a>
