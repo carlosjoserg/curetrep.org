@@ -46,7 +46,7 @@ homepage: true
 				</p>
 			</ul>
 		</div>
-		<div class="medium-4 columns b10">
+		<div class="medium-3 columns b10">
 			<img src="{{ site.urlimg }}trepab/schema.png" alt="schema">
 		</div>
 	</div>
