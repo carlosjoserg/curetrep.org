@@ -36,22 +36,22 @@ The **COVID-19** emergency requires the urgent development of new strategies to 
 
 In addition to the Test and Treat and the COnV-ert studies, aimed at identifying clinical solutions against SARS-CoV-2 (listed hereunder as “Therapeutics”), the Unit has performed analyses to advance knowledge in the fields of diagnostics, transmission, and risk factors.
 
-### a. Therapeutics
+<h4>a. Therapeutics</h4>
 
 {% include _therapeutics.html %}
 
 
-### b. Diagnostics
+<h4>b. Diagnostics</h4>
 
 {% include _diagnostics.html %}
 
 
-### c. Transmission
+<h4>c. Transmission</h4>
 
 {% include _transmission.html %}
 
 
-### d. Risk factors
+<h4>d. Risk factors</h4>
 
 {% include _factors.html %}
 
