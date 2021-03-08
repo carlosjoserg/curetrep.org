@@ -83,7 +83,7 @@ permalink: /team/
 	</div>
 
 	<div class="medium-3 columns">
-		<a href="{{ site.url }}/team/miquel/"><img src="{{ site.urlimg }}/team/14_miguel.jpg" alt="miguel"></a>
+		<a href="{{ site.url }}/team/miquel/"><img src="{{ site.urlimg }}/team/14_miquel.jpg" alt="miquel"></a>
 		<p style="text-align: center;">Miquel Àngel Rodríguez-Arias</p>
 	</div>
 
