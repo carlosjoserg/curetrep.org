@@ -34,7 +34,7 @@ The _Trep-AB_ project will achieve this by **repurposing** (i.e., finding new ap
 
 </div>
 
-## Publications {#articles}
+## Publications {#publications}
 
 
 

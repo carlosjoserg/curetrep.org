@@ -30,7 +30,7 @@ The **COVID-19** emergency requires the urgent development of new strategies to 
 	</div>
 </div>
 
-## Publications {#articles}
+## Publications {#publications}
 
 
 

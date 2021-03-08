@@ -7,7 +7,7 @@ header: no
 permalink: "/publications/"
 ---
 
-# List of publications
+# List of publications {#publications}
 
 ## [On antibacterial drugs for treponematoses therapy](https://curetrep.org/trepab/)
 
