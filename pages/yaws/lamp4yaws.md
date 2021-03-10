@@ -16,11 +16,11 @@ permalink: "/yaws/lamp4yaws/"
 	</div>
 </div>
 
-The LAMP4Yaws is a study funded by the European and Developing Countries Clinical Trials Partnership (EDCTP) aimed at performing a diagnostic evaluation of the *Treponema pallidum, Haemophilus ducreyi* loop mediated isothermal test (TPHD-LAMP) for yaws. Additional multidisciplinary sub-studies will aid our understanding of yaws epidemiology and transmission and assess the feasibility and cost-effectiveness of the TPHD-LAMP assay for use in yaws eradication campaigns and national surveillance programmes.
+The *LAMP4Yaws* is a study funded by the European and Developing Countries Clinical Trials Partnership (EDCTP) aimed at performing a diagnostic evaluation of the *Treponema pallidum, Haemophilus ducreyi* loop mediated isothermal test (TPHD-LAMP) for yaws. Additional multidisciplinary sub-studies will aid our understanding of yaws epidemiology and transmission and assess the feasibility and cost-effectiveness of the TPHD-LAMP assay for use in yaws eradication campaigns and national surveillance programmes.
 
 
 
-The LAMP4Yaws is a collaboration between the following partners:
+The *LAMP4Yaws* is a collaboration between the following partners:
 
 * Coordination: London School for Hygiene and Tropical Medicine, UK
 * Field implementation: FLS, Spain
@@ -39,7 +39,7 @@ In this multi-country, groundbreaking program, [Dr. Camila G- Beiras]({{ site.ur
 
 
 
-We hope that the LAMP4Yaws study will ultimately result in WHO’s implementation of the TPHD-LAMP test for yaws as one of the key diagnostic tests in yaws eradication and post-eradication surveillance.
+We hope that the *LAMP4Yaws* study will ultimately result in WHO’s implementation of the TPHD-LAMP test for yaws as one of the key diagnostic tests in yaws eradication and post-eradication surveillance.
 
 
 
