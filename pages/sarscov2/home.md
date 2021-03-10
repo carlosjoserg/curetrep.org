@@ -111,6 +111,6 @@ In addition to the Test and Treat and the COnV-ert studies, aimed at identifying
 
 <div class="row" style="background: #fff;">
 	<div class="medium-2 medium-centered columns b30">
-		<a href="http://www.hospitalgermanstrias.cat/en" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/gtp-new.jpg" alt="Hostpital"></a>
+		<a href="http://www.hospitalgermanstrias.cat/en" target="_blank" ><img src="{{ site.urlimg }}/sarscov2/gtp-new.png" alt="Hostpital"></a>
 	</div>
 </div>
