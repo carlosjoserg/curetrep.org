@@ -17,9 +17,11 @@ homepage: true
 		<h3>Dan Ouchi</h3>
 		<p><b>Biostatistician</b></p>
 		<p>
-		Gerard Carot-Sans is a freelance medical writer with extensive experience writing and editing scientific manuscripts of many medical areas. Gerard is fond of flowing free in the research arena; still, he enjoys regularly collaborating with outstanding research teams like the STI and Skin NTD Unit of the Fight AIDS and Infectious Diseases Foundation/ Germans Trias i Pujol University Hospital.
-		<br><br>
-		Gerard has a BSc in Pharmacy, a BSc in Biochemistry, and a PhD in Biochemistry and Molecular Biology from the University of Barcelona. He has completed various training programs in medical writing, statistics, and clinical study design, including but not limited to the foundation and advanced certificates of the European Medical Writers Association.
+		Dan Ouchi is a biostatistician and data scientist of the AIDS Research Institute IrsiCaixa and is currently providing support in the statistical part of the projects led by Oriol Mitjà.
+ 		<br><br>
+		Dan has worked in five different research institutes during the last 9 years. He has an extensive experience in the analysis of clinical trials, epidemiological, pharmacoepidemiological and pharmacovigilance studies using electronic health records. He has also worked as a data scientist for a tech startup developing AI-based products just before starting his own company. After that, decided to return to research and is currently working as a technical advisor to several research groups.
+ 		<br><br>
+		Dan has a BA in Statistics from the University of Barcelona, a MSc in Biostatistics and bioinformatics from the Polytechnic University of Catalonia and is currently a PhD student from the Autonomous University of Barcelona.
 		</p>
 	</div>
 
