@@ -17,7 +17,7 @@ slogan: 'Research activity of the STI and Skin NTD Unit of the Fight Aids and In
 description: 'Research activity of the STI and Skin NTD Unit of the Fight Aids and Infectious Diseases Foundation.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p> &copy; 2021 All rights reserved.<br>Design based on <a target="_blank" href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p> &copy; 2021 All rights reserved.<br>Design based on <a target="_blank" href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a target="_blank" href="https://github.com/carlosjoserg">Can-lo</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

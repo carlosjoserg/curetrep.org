@@ -25,17 +25,17 @@ The LAMP4Yaws is a collaboration between the following partners:
 * Coordination: London School for Hygiene and Tropical Medicine, UK
 * Field implementation: FLS, Spain
 * LAMP development and evaluation
-  - Federal Research Institute for Animal Health (FLI) , **Germany**
-  - Albert-Ludwigs-Universität Freiburg, **Germany**
-  - MAST diagnostics, **Germany**
+  - Federal Research Institute for Animal Health (FLI) , Germany
+  - Albert-Ludwigs-Universität Freiburg, Germany
+  - MAST diagnostics, Germany
 * And the collaborating partiers in the field where activities will take place:
-  - Centre Pasteur du Cameroun, **Germany**.
-  - Institut Pasteur de Cote D’Ivoire, **Ivory Coast**
-  - University of Ghana, Noguchi Memorial Institute for Medical Research, **Ghana**
+  - Centre Pasteur du Cameroun, Germany.
+  - Institut Pasteur de Cote D’Ivoire, Ivory Coast
+  - University of Ghana, Noguchi Memorial Institute for Medical Research, Ghana
 
 
 
-In this multi-country, groundbreaking program, Dr. Camila G- Beiras, yaws and NTDs researcher from the Skin NTD/STI unit,  coordinates the implementation of this project from the field in **Cameroon, Ghana and Ivory Coast**, including the implementation of the multi-country case searches and epidemiological analysis, and the deployment of capacity-building activities aimed at strengthening the countries’ capacity for conducting high quality clinical research.
+In this multi-country, groundbreaking program, [Dr. Camila G- Beiras]({{ site.url }}/team/camila/), yaws and NTDs researcher from the Skin NTD/STI unit,  coordinates the implementation of this project from the field in Cameroon, Ghana and Ivory Coast, including the implementation of the multi-country case searches and epidemiological analysis, and the deployment of capacity-building activities aimed at strengthening the countries’ capacity for conducting high quality clinical research.
 
 
 
