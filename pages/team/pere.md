@@ -15,7 +15,7 @@ homepage: true
 
 	<div class="medium-6 columns">
 		<h3>Pere Millat-Martínez</h3>
-		<p><b>Associated Researcher</b></p>
+		<p><b>Collaborator</b></p>
 		<p>
 		Pere Millat-Martínez is a Medical research fellow working in the Barcelona Institute for Global Health (ISGlobal) in the field of public health and malaria. He collaborates in the development and coordination of COVID19 clinical trials in the Fight AIDS and Infectious Diseases Foundation/Germans Trias i Pujol University Hospital.
 		<br><br>
