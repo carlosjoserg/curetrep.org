@@ -1,3 +1,22 @@
+# TREPAB
+
+bibtex2html -nofooter -noheader -nobibsource -nokeys -nokeywords -nodoc -dl -d -r -s vancouver.bst -o _trepab ../trepab/trepab.bib
+sed -i '1s/^/<div class="row large-10 columns t10">\n/' _trepab.html
+echo "</div>" >> _trepab.html
+sed -i 's/arXiv/ePrint/g' _trepab.html
+sed -i 's|http://arxiv.org/abs/||g' _trepab.html
+sed -i 's|<a href|<a target="_blank" href|g' _trepab.html
+sed -i 's|<p>||g' _trepab.html
+sed -i 's|<dd>|<li><p>|g' _trepab.html
+sed -i 's|</dd>|</p></li>|g' _trepab.html
+sed -i 's|<dl>|<ul>|g' _trepab.html
+sed -i 's|</dl>|</ul>|g' _trepab.html
+sed -i -e '/<dt>/,+2d' _trepab.html
+sed -i 's|<font size="-1">|<font size="-1"><p>|g' _trepab.html
+sed -i 's|</font>|</p></font>|g' _trepab.html
+mv _trepab.html ../../_includes/
+
+
 # SARS-COV-2
 
 ## THERAPEUTICS

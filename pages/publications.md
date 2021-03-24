@@ -11,7 +11,7 @@ permalink: "/publications/"
 
 ## [On antibacterial drugs for treponematoses therapy](https://curetrep.org/trepab/)
 
-Coming soon.
+{% include _trepab.html %}
 
 ## [On strategies for Yaws eradication](https://curetrep.org/yaws/)
 

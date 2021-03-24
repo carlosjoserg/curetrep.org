@@ -36,9 +36,8 @@ The _Trep-AB_ project will achieve this by **repurposing** (i.e., finding new ap
 
 ## Publications {#publications}
 
+{% include _trepab.html %}
 
-
-Coming soon.
 
 ## Related news {#news}
 
